@@ -190,6 +190,6 @@ def check_password(password, hash):
     return hash_password(password) == hash
 
 #Change the file path based on your file location
-datafile=r"C:\Users\sanka\Documents\Learning\GUVI learning platform\userInfo.txt"
+datafile=r"C:\Users\userInfo.txt"
 
 mainform()
